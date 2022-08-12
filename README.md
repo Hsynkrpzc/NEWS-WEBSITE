@@ -1,6 +1,6 @@
 # Haber - Aktivite Sitesi
 
-<h1>News Grid/h1>
+<h1>News Grid</h1>
 
 social activities pages.
 
